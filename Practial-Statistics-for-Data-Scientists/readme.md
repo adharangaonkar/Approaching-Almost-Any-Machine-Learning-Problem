@@ -1,4 +1,7 @@
 # Code repository
+
+### This repository contains all the theory and code from the book Practical Statistics for Data Scientists.
+
 <table width='100%'>
  <tr>
   <td>
